@@ -1,0 +1,11 @@
+{
+  "item.testmod.blue_bird": "Blue Bird",
+  "item.testmod.blue_bird_egg": "Blue Bird Egg",
+  "block.testmod.blue_bird_block": "Blue Bird Block",
+  "block.testmod.blue_bird_ore_stone": "Blue Bird Ore",
+  "block.testmod.blue_bird_ore_deepslate": "Deepslate Blue Bird Ore",
+  "block.testmod.blue_bird_ore_nether": "Netherrack Blue Bird Ore",
+  "block.testmod.blue_bird_ore_endstone": "Endstone Blue Bird Ore",
+
+  "creativemodetab.test_tab": "Mod Items"
+}
